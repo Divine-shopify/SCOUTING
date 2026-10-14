@@ -5,7 +5,7 @@
  */
 const SHEET_NAME   = 'Queue';
 const SENDER_NAME  = 'Jacobs Roland';
-const DAILY_LIMIT  = 20;      // emails per run (one run per weekday). Start at 10 in week 1.
+const DAILY_LIMIT  = 70;      // emails per run (one run per weekday). Drop to 30 if bounces or warnings appear.
 const MAX_BOUNCES  = 3;       // stop sending if more bounces than this arrived in the last 24 hours
 const PAUSED       = false;   // set to true to stop all sending without deleting anything
 const TEST_MODE    = true;    // true = sends only to yourself so you can check formatting. Set false to go live.
