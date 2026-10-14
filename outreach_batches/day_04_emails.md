@@ -1,880 +1,880 @@
 # Day 4 outreach: emails 61–130 (70 emails)
 
-Sender: Jacobs Roland <savelroly@gmail.com>. No support inboxes. German prospects first.
+Sender: Jacobs Roland <savelroly@gmail.com>. No support inboxes. German prospects first, written in German.
 
 ## 61. JUHN Partner (Germany, High intent)
 
 **To:** info@juhn.com  
-**Subject:** DATEV client document collection at JUHN Partner
+**Subject:** DATEV-Belegeinholung bei JUHN Partner
 
 ```
-Dear Christoph,
+Guten Tag,
 
-I noted that JUHN Partner carries the DATEV Digitale Kanzlei label and publishes on digital tax advisory, with offices from Cologne to Dubai.
+mir ist aufgefallen, dass JUHN Partner das Label „DATEV Digitale Kanzlei“ trägt, regelmäßig zur digitalen Steuerberatung publiziert und Standorte von Köln bis Dubai unterhält.
 
-There may be scope for an AI agent to collect client documents, follow up on payments and prepare monthly status reports around your DATEV workflows, giving your team more time for higher-value work.
+Hier könnte ein KI-Agent rund um Ihre DATEV-Prozesse Mandantenbelege einholen, Zahlungen nachverfolgen und monatliche Statusberichte vorbereiten – damit Ihrem Team mehr Zeit für anspruchsvollere Aufgaben bleibt.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie DATEV arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to JUHN Partner?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für JUHN Partner von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 62. steuerberaten.de Steuerberatungsgesellschaft mbH (Germany, High intent)
 
 **To:** info@steuerberaten.de  
-**Subject:** Document reminders across steuerberaten.de locations
+**Subject:** Belegerinnerungen über alle steuerberaten.de-Standorte
 
 ```
-Dear steuerberaten.de team,
+Sehr geehrte Damen und Herren,
 
-I noted that steuerberaten.de has offered online tax advice since 2009, with locations in Hamburg, Berlin, Bremen and elsewhere.
+wie ich gesehen habe, bietet steuerberaten.de seit 2009 Online-Steuerberatung an, mit Standorten unter anderem in Hamburg, Berlin und Bremen.
 
-There may be scope for an AI agent to send client document reminders and prepare bookkeeping status reports across your locations, giving your team more time for higher-value work.
+Ein KI-Agent könnte standortübergreifend Mandanten an fehlende Unterlagen erinnern und Statusberichte zur Buchhaltung vorbereiten – damit Ihrem Team mehr Zeit für anspruchsvollere Aufgaben bleibt.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for steuerberaten.de?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für steuerberaten.de hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 63. Steuerkanzlei Keller (Germany, High intent)
 
 **To:** info@Steuerkanzlei-Keller.de  
-**Subject:** Missing document reminders for Keller DATEV clients
+**Subject:** Erinnerungen an fehlende Belege für DATEV-Mandanten der Kanzlei Keller
 
 ```
-Dear Steuerkanzlei Keller team,
+Sehr geehrte Damen und Herren,
 
-I noted that Steuerkanzlei Keller publishes client guides for DATEV Unternehmen online and the MyDATEV portal.
+mir ist aufgefallen, dass die Steuerkanzlei Keller Anleitungen für Mandanten zu DATEV Unternehmen online und zum MyDATEV-Portal bereitstellt.
 
-In that context, there may be scope to use an AI agent to chase client receipts, send missing-document reminders and prepare monthly bookkeeping status reports.
+In diesem Zusammenhang könnte ein KI-Agent Belege bei Mandanten anfordern, an fehlende Unterlagen erinnern und monatliche Statusberichte zur Buchhaltung vorbereiten.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie DATEV laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for Steuerkanzlei Keller?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für Steuerkanzlei Keller hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 64. TABAK Steuerberatung (Germany, High intent)
 
 **To:** info@steuerberater-tabak.com  
-**Subject:** Digital bookkeeping status reports at TABAK
+**Subject:** Digitale Statusberichte zur Buchhaltung bei TABAK
 
 ```
-Dear TABAK Steuerberatung team,
+Sehr geehrte Damen und Herren,
 
-I noted that TABAK Steuerberatung in Mannheim publishes content on the digital practice and digitalisation topics.
+mir ist aufgefallen, dass TABAK Steuerberatung in Mannheim Beiträge zur digitalen Kanzlei und zu Digitalisierungsthemen veröffentlicht.
 
-I believe there may be scope for an AI agent to send client receipt reminders and prepare monthly status reports for your bookkeeping clients, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der Ihre Buchhaltungsmandanten an ausstehende Belege erinnert und monatliche Statusberichte vorbereitet – Ihre bestehenden Abläufe bleiben dabei unverändert.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to TABAK Steuerberatung?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für TABAK Steuerberatung von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 65. WWS Gruppe (Germany, High intent)
 
 **To:** info-mg@wws-gruppe.de  
-**Subject:** Incoming e-invoice checks for WWS clients
+**Subject:** Prüfung eingehender E-Rechnungen für WWS-Mandanten
 
 ```
-Dear WWS Gruppe team,
+Sehr geehrte Damen und Herren,
 
-I noted that WWS Gruppe has published pieces on handling incoming digital invoices with care.
+mir ist aufgefallen, dass die WWS Gruppe Beiträge zum sorgfältigen Umgang mit eingehenden digitalen Rechnungen veröffentlicht hat.
 
-There may be scope for an AI agent to check incoming e-invoices, send payment reminders and prepare monthly reports for WWS clients, giving your team more time for higher-value work.
+Ein KI-Agent könnte für WWS-Mandanten eingehende E-Rechnungen prüfen, Zahlungserinnerungen versenden und monatliche Berichte vorbereiten – damit Ihrem Team mehr Zeit für anspruchsvollere Aufgaben bleibt.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to WWS Gruppe?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für WWS Gruppe von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 66. Bilendo GmbH (Germany, High intent)
 
 **To:** info@bilendo.de  
-**Subject:** Weekly DSO summaries for Bilendo customers
+**Subject:** Wöchentliche DSO-Übersichten für Bilendo-Kunden
 
 ```
-Dear Bilendo team,
+Sehr geehrte Damen und Herren,
 
-I noted that Bilendo in Munich offers open-items management, dunning templates and an Inkasso hand-off with Adebio.
+wie ich gesehen habe, bietet Bilendo aus München Offene-Posten-Management, Mahnvorlagen und eine Inkasso-Übergabe gemeinsam mit Adebio an.
 
-I believe there may be scope for an AI agent to prioritise collector tasks and prepare weekly DSO summaries for Bilendo customers, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der für Bilendo-Kunden die Aufgaben im Forderungsmanagement priorisiert und wöchentliche DSO-Übersichten erstellt – die bestehenden Abläufe bleiben dabei unverändert.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-Might you have 20 minutes in the coming weeks for a short call to assess whether this would be useful for Bilendo?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für Bilendo von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 67. paywise GmbH (Germany, High intent)
 
 **To:** kontakt@paywise.de  
-**Subject:** Overdue invoice hand-offs for paywise clients
+**Subject:** Übergabe überfälliger Rechnungen für paywise-Mandanten
 
 ```
-Dear paywise team,
+Sehr geehrte Damen und Herren,
 
-I noted that paywise offers online receivables management and a Mahnwesen service from Gräfelfing near Munich.
+wie ich gesehen habe, bietet paywise von Gräfelfing bei München aus ein Online-Forderungsmanagement und einen Mahnwesen-Service an.
 
-I believe there may be scope for an AI agent to hand off overdue invoices from client accounting systems and report status back, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der überfällige Rechnungen aus den Buchhaltungssystemen Ihrer Mandanten übergibt und den Status zurückmeldet – die bestehenden Abläufe bleiben dabei unverändert.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a convenient time to discuss whether this could suit paywise.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für paywise interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 68. stratEDI GmbH (Germany, High intent)
 
 **To:** info@stratedi.de  
-**Subject:** Exception follow-ups for stratEDI e-invoicing clients
+**Subject:** Nachverfolgung von Ausnahmefällen für stratEDI-Kunden im E-Invoicing
 
 ```
-Dear stratEDI team,
+Sehr geehrte Damen und Herren,
 
-I noted that stratEDI operates its EDI and e-invoicing services from Gevelsberg.
+wie ich gesehen habe, betreibt stratEDI seine EDI- und E-Invoicing-Services von Gevelsberg aus.
 
-There may be scope to automate payment-delay alerts and exception follow-ups for stratEDI clients.
+Für stratEDI-Kunden ließen sich Hinweise auf Zahlungsverzögerungen und die Nachverfolgung von Ausnahmefällen automatisieren.
 
-My name is Jacobs Roland, and I am an AI automation specialist. I design OpenClaw-based AI agents that work with existing accounting, ERP and billing systems to support invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Might you be open to a short call of around 20 minutes in the coming weeks to assess whether this could support stratEDI?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für stratEDI von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 69. anaptis GmbH (Germany, High intent)
 
 **To:** info@anaptis.com  
-**Subject:** AR follow-ups after Business Central document output
+**Subject:** Forderungsnachverfolgung nach dem Belegversand aus Business Central
 
 ```
-Dear anaptis team,
+Sehr geehrte Damen und Herren,
 
-I noted that anaptis in Münster implements Business Central and offers add-ons such as Continia Document Output.
+wie ich gesehen habe, implementiert anaptis in Münster Business Central und bietet Add-ons wie Continia Document Output an.
 
-Once invoices leave Business Central, there may be scope to automate the accounts receivable follow-ups that come next.
+Sobald Rechnungen Business Central verlassen, ließe sich die anschließende Nachverfolgung offener Forderungen automatisieren.
 
-My name is Jacobs Roland, and I am an AI automation specialist. I design OpenClaw-based AI agents that work with existing accounting, ERP and billing systems to support invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie Business Central laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a time that suits you to discuss whether this could be useful for anaptis.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für anaptis interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 70. bloopark systems GmbH & Co. KG (Germany, High intent)
 
 **To:** sales@bloopark.de  
-**Subject:** Overdue-invoice follow-ups for bloopark Odoo clients
+**Subject:** Nachverfolgung überfälliger Rechnungen für Odoo-Kunden von bloopark
 
 ```
-Dear bloopark team,
+Sehr geehrte Damen und Herren,
 
-I read bloopark's blog posts on Odoo Studio customisation and connecting a Gmail inbox with Odoo.
+ich habe die Blogbeiträge von bloopark zur Anpassung mit Odoo Studio und zur Anbindung eines Gmail-Postfachs an Odoo gelesen.
 
-For bloopark's Odoo clients, there may be scope to automate overdue-invoice follow-ups and finance reports.
+Für die Odoo-Kunden von bloopark ließen sich die Nachverfolgung überfälliger Rechnungen und Finanzberichte automatisieren.
 
-I am Jacobs Roland, an AI automation specialist. I build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, taking care of invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie Odoo arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for bloopark?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für bloopark hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 71. initOS GmbH (Germany, High intent)
 
 **To:** info@initos.com  
-**Subject:** Receivables reports for initOS Odoo clients
+**Subject:** Forderungsberichte für Odoo-Kunden von initOS
 
 ```
-Dear initOS team,
+Sehr geehrte Damen und Herren,
 
-I read initOS's content on Odoo Enterprise for the German Mittelstand.
+ich habe die Inhalte von initOS zu Odoo Enterprise für den deutschen Mittelstand gelesen.
 
-For initOS' Odoo clients, there may be scope to automate overdue reminders and receivables reports.
+Für die Odoo-Kunden von initOS ließen sich Erinnerungen bei Überfälligkeit und Forderungsberichte automatisieren.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie Odoo zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to initOS?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für initOS von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 72. SIEVERS-GROUP (Germany, High intent)
 
 **To:** info@sievers-group.com  
-**Subject:** XRechnung rejection alerts for SIEVERS clients
+**Subject:** Warnmeldungen bei abgelehnten XRechnungen für SIEVERS-Kunden
 
 ```
-Dear SIEVERS-GROUP team,
+Sehr geehrte Damen und Herren,
 
-I noted that SIEVERS-GROUP offers its own SIEVERS XRechnung product and lists apps on Microsoft AppSource.
+wie ich gesehen habe, bietet die SIEVERS-GROUP mit SIEVERS XRechnung ein eigenes Produkt an und listet Apps auf Microsoft AppSource.
 
-For SIEVERS' Business Central clients, there may be scope to automate XRechnung rejection alerts, overdue follow-ups and finance reports.
+Für die Business-Central-Kunden von SIEVERS ließen sich Warnmeldungen bei abgelehnten XRechnungen, die Nachverfolgung überfälliger Rechnungen und Finanzberichte automatisieren.
 
-I am Jacobs Roland, an AI automation specialist. I build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, taking care of invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie Business Central laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for SIEVERS-GROUP?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für SIEVERS-GROUP hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 73. TSO-DATA GmbH (Germany, High intent)
 
 **To:** info@tso.de  
-**Subject:** An AR follow-up add-on for Business Central
+**Subject:** Ein Add-on zur Forderungsnachverfolgung für Business Central
 
 ```
-Dear TSO-DATA team,
+Sehr geehrte Damen und Herren,
 
-I understand that TSO-DATA in Osnabrück offers Business Central add-ons such as a DMS connector and logistics modules.
+soweit ich weiß, bietet TSO-DATA in Osnabrück Add-ons für Business Central an, etwa einen DMS-Connector und Logistikmodule.
 
-There may be scope to add receivables follow-ups and finance reporting to that range as an AI-based Business Central add-on.
+Dieses Angebot ließe sich möglicherweise um ein KI-basiertes Business-Central-Add-on für die Nachverfolgung von Forderungen und das Finanzreporting ergänzen.
 
-My name is Jacobs Roland, and I am an AI automation specialist. I design OpenClaw-based AI agents that work with existing accounting, ERP and billing systems to support invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie Business Central arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to TSO-DATA?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für TSO-DATA von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 74. finway GmbH (Germany, High intent)
 
 **To:** info@finway.de  
-**Subject:** Approver reminders for Finway invoice approvals
+**Subject:** Erinnerungen an Freigebende bei der Rechnungsfreigabe in Finway
 
 ```
-Dear Finway team,
+Sehr geehrte Damen und Herren,
 
-I read Finway's product page on invoice approval (Rechnungsfreigabe) as a digital process for SMEs.
+ich habe die Produktseite von Finway zur Rechnungsfreigabe als digitalem Prozess für KMU gelesen.
 
-There may be scope to automate approver reminders, supplier status updates and payables reports for Finway customers.
+Für Finway-Kunden ließen sich Erinnerungen an die Freigebenden, Statusmeldungen an Lieferanten und Berichte zu Verbindlichkeiten automatisieren.
 
-My name is Jacobs Roland, and I am an AI automation specialist. I design OpenClaw-based AI agents that work with existing accounting, ERP and billing systems to support invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to Finway?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für Finway von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 75. HERO Software GmbH (Germany, High intent)
 
 **To:** kontakt@hero-software.de  
-**Subject:** Weekly cash reports for tradespeople using HERO
+**Subject:** Wöchentliche Liquiditätsberichte für Handwerksbetriebe mit HERO
 
 ```
-Dear HERO Software team,
+Sehr geehrte Damen und Herren,
 
-I read HERO's blog article on WhatsApp in the skilled trades, covering its advantages, drawbacks and data protection.
+ich habe den Blogartikel von HERO über WhatsApp im Handwerk gelesen – mit Vor- und Nachteilen sowie Hinweisen zum Datenschutz.
 
-For tradespeople invoicing in HERO, there may be scope to automate overdue-invoice reminders and weekly cash reports.
+Für Handwerksbetriebe, die mit HERO abrechnen, ließen sich Erinnerungen an überfällige Rechnungen und wöchentliche Liquiditätsberichte automatisieren.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a time that suits you to discuss whether this could be useful for HERO Software.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für HERO Software interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 76. openHandwerk GmbH (Germany, High intent)
 
 **To:** info@openhandwerk.de  
-**Subject:** Open-invoice summaries for openHandwerk users
+**Subject:** Übersichten offener Rechnungen für openHandwerk-Nutzer
 
 ```
-Dear openHandwerk team,
+Sehr geehrte Damen und Herren,
 
-I read openHandwerk's knowledge base article on global email attachments for order, quote, invoice and delivery-note folders.
+ich habe den Wissensdatenbank-Artikel von openHandwerk zu globalen E-Mail-Anhängen für Auftrags-, Angebots-, Rechnungs- und Lieferscheinordner gelesen.
 
-There may be scope to automate payment reminders and open-invoice summaries for openHandwerk users.
+Für openHandwerk-Nutzer ließen sich Zahlungserinnerungen und Übersichten offener Rechnungen automatisieren.
 
-I am Jacobs Roland, an AI automation specialist. I build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, taking care of invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a time that suits you to discuss whether this could be useful for openHandwerk.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für openHandwerk interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 77. Plancraft GmbH (Germany, High intent)
 
 **To:** info@plancraft.com  
-**Subject:** Payment reminders for plancraft trade customers
+**Subject:** Zahlungserinnerungen für plancraft-Kunden im Handwerk
 
 ```
-Dear plancraft team,
+Sehr geehrte Damen und Herren,
 
-I noted that plancraft provides software for quotes, invoices and documentation in the trades and also serves Austria.
+wie ich gesehen habe, bietet plancraft Software für Angebote, Rechnungen und Dokumentation im Handwerk an und ist auch in Österreich aktiv.
 
-There may be scope to automate payment reminders and open-invoice summaries for plancraft users.
+Für plancraft-Nutzer ließen sich Zahlungserinnerungen und Übersichten offener Rechnungen automatisieren.
 
-My name is Jacobs Roland, and I am an AI automation specialist. I design OpenClaw-based AI agents that work with existing accounting, ERP and billing systems to support invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Might you be open to a short call of around 20 minutes in the coming weeks to assess whether this could support plancraft?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für plancraft von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 78. NAVAX Unternehmensgruppe (Austria, High intent)
 
 **To:** welcome@navax.com  
-**Subject:** Collections follow-ups for NAVAX Dynamics 365 customers
+**Subject:** Forderungsmanagement für Dynamics-365-Kunden von NAVAX
 
 ```
-Dear NAVAX team,
+Sehr geehrte Damen und Herren,
 
-I understand that NAVAX is an Austrian Microsoft Dynamics 365 partner.
+soweit ich weiß, ist NAVAX ein österreichischer Microsoft-Dynamics-365-Partner.
 
-There may be scope to automate collections follow-ups and finance reporting for NAVAX's Dynamics 365 customers.
+Für die Dynamics-365-Kunden von NAVAX ließen sich die Nachverfolgung offener Forderungen und das Finanzreporting automatisieren.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen wie Microsoft Dynamics 365 laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a time that suits you to discuss whether this could be useful for NAVAX.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für NAVAX interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 79. audalis Kohler Punge & Partner mbB (Germany, Medium intent)
 
 **To:** dortmund@audalis.de  
-**Subject:** Client document reminders at audalis
+**Subject:** Belegerinnerungen für Mandanten von audalis
 
 ```
-Dear audalis team,
+Sehr geehrte Damen und Herren,
 
-I noted that audalis Kohler Punge & Partner provides tax, audit and accounting services from Dortmund.
+wie ich gesehen habe, bietet audalis Kohler Punge & Partner von Dortmund aus Steuerberatung, Wirtschaftsprüfung und Rechnungswesen an.
 
-In that context, there may be scope to use an AI agent to send client document reminders and prepare month-end status reports.
+In diesem Zusammenhang könnte ein KI-Agent Mandanten an fehlende Unterlagen erinnern und Statusberichte zum Monatsabschluss vorbereiten.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Might you have 20 minutes in the coming weeks for a short call to assess whether this would be useful for audalis?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für audalis von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 80. BANSBACH GmbH (Germany, Medium intent)
 
 **To:** info@bansbach-gmbh.de  
-**Subject:** Recurring finance reports at BANSBACH
+**Subject:** Wiederkehrende Finanzberichte bei BANSBACH
 
 ```
-Dear BANSBACH team,
+Sehr geehrte Damen und Herren,
 
-I noted that BANSBACH offers sustainability (ESG) reporting alongside tax and audit from Stuttgart.
+wie ich gesehen habe, bietet BANSBACH in Stuttgart neben Steuerberatung und Wirtschaftsprüfung auch Nachhaltigkeitsberichterstattung (ESG) an.
 
-I believe there may be scope for an AI agent to handle client data requests and prepare recurring finance reports, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der Datenanfragen an Mandanten übernimmt und wiederkehrende Finanzberichte vorbereitet – Ihre bestehenden Abläufe bleiben dabei unverändert.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Might you have 20 minutes in the coming weeks for a short call to assess whether this would be useful for BANSBACH?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für BANSBACH von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 81. BRL Boege Rohde Luebbehuesen (Germany, Medium intent)
 
 **To:** info@BRL.de  
-**Subject:** Cross-office status reporting at BRL
+**Subject:** Standortübergreifende Statusberichte bei BRL
 
 ```
-Dear BRL team,
+Sehr geehrte Damen und Herren,
 
-I noted that BRL provides tax, audit and accounting services from multiple offices across Germany.
+wie ich gesehen habe, bietet BRL Steuerberatung, Wirtschaftsprüfung und Rechnungswesen an mehreren Standorten in Deutschland an.
 
-With that in mind, there may be scope for an AI agent to send client document reminders and prepare cross-office finance status reports, working within the tools your team already uses.
+Vor diesem Hintergrund könnte ein KI-Agent Mandanten an fehlende Unterlagen erinnern und standortübergreifende Finanz-Statusberichte vorbereiten – innerhalb der Tools, die Ihr Team bereits nutzt.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for BRL?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für BRL hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 82. dhpg (Germany, Medium intent)
 
 **To:** info@dhpg.de  
-**Subject:** Client document chasing at dhpg
+**Subject:** Anforderung von Mandantenunterlagen bei dhpg
 
 ```
-Dear dhpg team,
+Sehr geehrte Damen und Herren,
 
-I noted that dhpg's newsletter recently discussed when an email counts as received.
+mir ist aufgefallen, dass sich der dhpg-Newsletter kürzlich mit der Frage befasst hat, wann eine E-Mail als zugegangen gilt.
 
-There may be scope for an AI agent to chase client documents and prepare recurring bookkeeping status reports, giving your team more time for higher-value work.
+Ein KI-Agent könnte Mandantenunterlagen nachfordern und regelmäßige Statusberichte zur Buchhaltung vorbereiten – damit Ihrem Team mehr Zeit für anspruchsvollere Aufgaben bleibt.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for dhpg?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für dhpg hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 83. Dierkes Partner (Germany, Medium intent)
 
 **To:** hamburg@dierkes-partner.de  
-**Subject:** Receipt reminders for Dierkes Partner clients
+**Subject:** Belegerinnerungen für Mandanten von Dierkes Partner
 
 ```
-Dear Dierkes Partner team,
+Sehr geehrte Damen und Herren,
 
-I noted that Dierkes Partner provides tax, audit and accounting services, including from its Hamburg office.
+wie ich gesehen habe, bietet Dierkes Partner Steuerberatung, Wirtschaftsprüfung und Rechnungswesen an, unter anderem von seinem Hamburger Standort aus.
 
-In that context, there may be scope to use an AI agent to send client receipt reminders and prepare monthly bookkeeping status reports.
+In diesem Zusammenhang könnte ein KI-Agent Mandanten an ausstehende Belege erinnern und monatliche Statusberichte zur Buchhaltung vorbereiten.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for Dierkes Partner?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für Dierkes Partner hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 84. DORNBACH (Germany, Medium intent)
 
 **To:** sozialversicherung@dornbach.de  
-**Subject:** Bookkeeping status reports at DORNBACH
+**Subject:** Statusberichte zur Buchhaltung bei DORNBACH
 
 ```
-Dear DORNBACH team,
+Sehr geehrte Damen und Herren,
 
-I noted that DORNBACH publishes a dedicated social insurance newsletter from Koblenz.
+mir ist aufgefallen, dass DORNBACH von Koblenz aus einen eigenen Newsletter zur Sozialversicherung herausgibt.
 
-I believe there may be scope for an AI agent to send client data reminders and prepare monthly bookkeeping status reports, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der Mandanten an ausstehende Daten erinnert und monatliche Statusberichte zur Buchhaltung vorbereitet – Ihre bestehenden Abläufe bleiben dabei unverändert.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to DORNBACH?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für DORNBACH von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 85. Dr. Kleeberg & Partner GmbH (Germany, Medium intent)
 
 **To:** muenchen@crowe-kleeberg.de  
-**Subject:** Monthly status reporting for Kleeberg accounting teams
+**Subject:** Monatliche Statusberichte für die Rechnungswesen-Teams von Kleeberg
 
 ```
-Dear Kleeberg team,
+Sehr geehrte Damen und Herren,
 
-I noted that Kleeberg is a Munich-based audit and tax firm in the Crowe network.
+wie ich gesehen habe, ist Kleeberg eine Wirtschaftsprüfungs- und Steuerberatungsgesellschaft mit Sitz in München und Teil des Crowe-Netzwerks.
 
-With that in mind, there may be scope for an AI agent to send client reminders and prepare monthly status reports for your accounting teams, working within the tools your team already uses.
+Vor diesem Hintergrund könnte ein KI-Agent Erinnerungen an Mandanten versenden und monatliche Statusberichte für Ihre Rechnungswesen-Teams vorbereiten – innerhalb der Tools, die Ihr Team bereits nutzt.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to Kleeberg?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für Kleeberg von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 86. LKC Gruppe (Germany, Medium intent)
 
 **To:** holding@lkc.de  
-**Subject:** Cross-office bookkeeping reports at LKC
+**Subject:** Standortübergreifende Buchhaltungsberichte bei LKC
 
 ```
-Dear LKC Gruppe team,
+Sehr geehrte Damen und Herren,
 
-I noted that LKC operates a group of offices, including AWP Wirtschaftstreuhand and partners in Traunstein.
+wie ich gesehen habe, betreibt LKC eine Gruppe von Kanzleien, darunter AWP Wirtschaftstreuhand und Partner in Traunstein.
 
-In that context, there may be scope to use an AI agent to send client reminders and prepare cross-office bookkeeping status reports.
+In diesem Zusammenhang könnte ein KI-Agent Erinnerungen an Mandanten versenden und standortübergreifende Statusberichte zur Buchhaltung vorbereiten.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-If it would be helpful, I would welcome a brief 20-minute call at a convenient time to discuss whether this could suit LKC Gruppe.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für LKC Gruppe interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 87. Nexia GmbH (Germany, Medium intent)
 
 **To:** kontakt@nexia.de  
-**Subject:** Client document requests at Nexia
+**Subject:** Unterlagenanforderungen bei Nexia
 
 ```
-Dear Nexia team,
+Sehr geehrte Damen und Herren,
 
-I noted that Nexia publishes client information, such as its 2026 brochure on the Künstlersozialabgabe.
+mir ist aufgefallen, dass Nexia Mandanteninformationen veröffentlicht, etwa die Broschüre 2026 zur Künstlersozialabgabe.
 
-I believe there may be scope for an AI agent to handle client document requests and prepare monthly status reports, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der Unterlagenanforderungen an Mandanten übernimmt und monatliche Statusberichte vorbereitet – Ihre bestehenden Abläufe bleiben dabei unverändert.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a convenient time to discuss whether this could suit Nexia.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für Nexia interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 88. Peters, Schönberger & Partner (Germany, Medium intent)
 
 **To:** psp@psp.eu  
-**Subject:** Open-item tracking for PSP NPO clients
+**Subject:** Offene-Posten-Verfolgung für NPO-Mandanten von PSP
 
 ```
-Dear PSP team,
+Sehr geehrte Damen und Herren,
 
-I noted that PSP publishes a regular newsletter as well as its NPO Impuls newsletter for foundations and associations.
+mir ist aufgefallen, dass PSP einen regelmäßigen Newsletter sowie den Newsletter „NPO Impuls“ für Stiftungen und Vereine herausgibt.
 
-With that in mind, there may be scope for an AI agent to track open items and prepare recurring finance reports for your bookkeeping and NPO clients, working within the tools your team already uses.
+Vor diesem Hintergrund könnte ein KI-Agent offene Posten verfolgen und wiederkehrende Finanzberichte für Ihre Buchhaltungs- und NPO-Mandanten vorbereiten – innerhalb der Tools, die Ihr Team bereits nutzt.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a convenient time to discuss whether this could suit PSP.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für PSP interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 89. PKF Fasselt Partnerschaft mbB (Germany, Medium intent)
 
 **To:** info@pkf-fasselt.de  
-**Subject:** Client data reminders for PKF Fasselt teams
+**Subject:** Datenerinnerungen für die Teams von PKF Fasselt
 
 ```
-Dear PKF Fasselt team,
+Sehr geehrte Damen und Herren,
 
-I noted that PKF Fasselt is currently recruiting a payroll accountant at its EUREF-Campus office in Berlin.
+wie ich gesehen habe, sucht PKF Fasselt derzeit Verstärkung in der Lohnbuchhaltung für den Standort auf dem EUREF-Campus in Berlin.
 
-There may be scope for an AI agent to send client data reminders and prepare monthly status reports for your accounting teams, giving your team more time for higher-value work.
+Ein KI-Agent könnte Mandanten an ausstehende Daten erinnern und monatliche Statusberichte für Ihre Rechnungswesen-Teams vorbereiten – damit Ihrem Team mehr Zeit für anspruchsvollere Aufgaben bleibt.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Might you have 20 minutes in the coming weeks for a short call to assess whether this would be useful for PKF Fasselt?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für PKF Fasselt von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 90. RINKE TREUHAND GmbH (Germany, Medium intent)
 
 **To:** info@rinke.eu  
-**Subject:** Receipt reminders at RINKE TREUHAND
+**Subject:** Belegerinnerungen bei RINKE TREUHAND
 
 ```
-Dear RINKE TREUHAND team,
+Sehr geehrte Damen und Herren,
 
-I noted that RINKE TREUHAND provides tax, audit and accounting services from Wuppertal.
+wie ich gesehen habe, bietet RINKE TREUHAND von Wuppertal aus Steuerberatung, Wirtschaftsprüfung und Rechnungswesen an.
 
-In that context, there may be scope to use an AI agent to send client receipt reminders and prepare monthly status reports.
+In diesem Zusammenhang könnte ein KI-Agent Mandanten an ausstehende Belege erinnern und monatliche Statusberichte vorbereiten.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-Might you have 20 minutes in the coming weeks for a short call to assess whether this would be useful for RINKE TREUHAND?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für RINKE TREUHAND von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 91. SCHOMERUS & PARTNER (Germany, Medium intent)
 
 **To:** info@schomerus.de  
-**Subject:** Open invoice follow-ups at SCHOMERUS
+**Subject:** Nachverfolgung offener Rechnungen bei SCHOMERUS
 
 ```
-Dear SCHOMERUS & PARTNER team,
+Sehr geehrte Damen und Herren,
 
-I noted that SCHOMERUS publishes content on electronic archives and e-commerce law from Hamburg.
+mir ist aufgefallen, dass SCHOMERUS in Hamburg Beiträge zu elektronischen Archiven und zum E-Commerce-Recht veröffentlicht.
 
-I believe there may be scope for an AI agent to follow up on open invoices and prepare client finance reports for your accounting teams, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der offene Rechnungen nachverfolgt und Finanzberichte für die Mandanten Ihrer Rechnungswesen-Teams vorbereitet – Ihre bestehenden Abläufe bleiben dabei unverändert.
 
-My name is Jacobs Roland and I am an AI automation specialist. I build OpenClaw-based AI agents that sit alongside existing accounting, ERP and billing systems and take on invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-Might you have 20 minutes in the coming weeks for a short call to assess whether this would be useful for SCHOMERUS & PARTNER?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für SCHOMERUS & PARTNER von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 92. Solidaris Unternehmensgruppe (Germany, Medium intent)
 
 **To:** koeln@solidaris.de  
-**Subject:** Invoice tracking for Solidaris non-profit clients
+**Subject:** Rechnungsverfolgung für gemeinnützige Mandanten von Solidaris
 
 ```
-Dear Solidaris team,
+Sehr geehrte Damen und Herren,
 
-I noted that Solidaris advises non-profit and social organisations from locations including Würzburg and Freiburg, and runs Solidatax.
+wie ich gesehen habe, berät Solidaris gemeinnützige und soziale Organisationen, unter anderem von Würzburg und Freiburg aus, und betreibt Solidatax.
 
-With that in mind, there may be scope for an AI agent to track invoices and prepare finance reports for your non-profit clients, working within the tools your team already uses.
+Vor diesem Hintergrund könnte ein KI-Agent Rechnungen verfolgen und Finanzberichte für Ihre gemeinnützigen Mandanten vorbereiten – innerhalb der Tools, die Ihr Team bereits nutzt.
 
-I am Jacobs Roland, an AI automation specialist. I design and build OpenClaw-based AI agents that work alongside existing accounting, ERP and billing systems to handle invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for Solidaris?
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für Solidaris hilfreich sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 93. Treuenfels (Germany, Medium intent)
 
 **To:** zentrale@treuenfels.com  
-**Subject:** Client document chasing at Treuenfels
+**Subject:** Anforderung von Mandantenunterlagen bei Treuenfels
 
 ```
-Dear Treuenfels team,
+Sehr geehrte Damen und Herren,
 
-I noted that Treuenfels publishes its 'Treuenfels-Spielregeln' on its careers site.
+mir ist aufgefallen, dass Treuenfels auf seiner Karriereseite die „Treuenfels-Spielregeln“ veröffentlicht.
 
-With that in mind, there may be scope for an AI agent to chase client documents and prepare monthly status reports, working within the tools your team already uses.
+Vor diesem Hintergrund könnte ein KI-Agent Mandantenunterlagen nachfordern und monatliche Statusberichte vorbereiten – innerhalb der Tools, die Ihr Team bereits nutzt.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
 
-Would you be willing to have a short 20-minute conversation in the coming weeks to consider whether this might be of value to Treuenfels?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für Treuenfels von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 94. BuchhaltungsButler GmbH (Germany, Medium intent)
 
 **To:** administration@buchhaltungsbutler.de  
-**Subject:** Open-items reporting for BuchhaltungsButler clients
+**Subject:** Offene-Posten-Berichte für Kunden von BuchhaltungsButler
 
 ```
-Dear Maxin,
+Guten Tag,
 
-I noted that BuchhaltungsButler supports invoice sending from customers' own email addresses as part of its AI-assisted bookkeeping.
+mir ist aufgefallen, dass BuchhaltungsButler im Rahmen seiner KI-gestützten Buchhaltung den Rechnungsversand über die eigenen E-Mail-Adressen der Kunden ermöglicht.
 
-I believe there may be scope for an AI agent to manage receipt-to-booking exception queues and prepare weekly open-items reports for SME clients, while your existing processes remain in place.
+Ich sehe Potenzial für einen KI-Agenten, der Ausnahmefälle zwischen Beleg und Buchung abarbeitet und wöchentliche Offene-Posten-Berichte für KMU-Kunden erstellt – die bestehenden Abläufe bleiben dabei unverändert.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a convenient time to discuss whether this could suit BuchhaltungsButler.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für BuchhaltungsButler interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 95. eurodata AG (Germany, Medium intent)
 
 **To:** info@eurodata.de  
-**Subject:** Finance reporting on eurodata cloud services
+**Subject:** Finanzberichte auf Basis der eurodata-Cloud-Dienste
 
 ```
-Dear eurodata team,
+Sehr geehrte Damen und Herren,
 
-I noted that eurodata AG in Saarbrücken provides cloud software for tax advisers and businesses.
+wie ich gesehen habe, bietet die eurodata AG in Saarbrücken Cloud-Software für Steuerberater und Unternehmen an.
 
-In that context, there may be scope to use an AI agent to handle client document requests and prepare finance reports on top of eurodata data.
+In diesem Zusammenhang könnte ein KI-Agent Unterlagenanforderungen an Mandanten übernehmen und auf Basis der eurodata-Daten Finanzberichte vorbereiten.
 
-I am Jacobs Roland, an AI automation specialist, and I design and build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, covering invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Might you have 20 minutes in the coming weeks for a short call to assess whether this would be useful for eurodata?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für eurodata von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com
+E-Mail: savelroly@gmail.com
 ```
 
 ## 96. Credit Management Group UK (United Kingdom, High intent)

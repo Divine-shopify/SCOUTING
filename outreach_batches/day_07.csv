@@ -1,55 +1,55 @@
 To,Company,Country,Buying Intent,Subject,Body
-info@hellocash.at,helloCash (mRaP GmbH),Austria,Low,Tax advisor handover for helloCash users,"Dear helloCash team,
+info@hellocash.at,helloCash (mRaP GmbH),Austria,Low,Datenübergabe an den Steuerberater für helloCash-Nutzer,"Sehr geehrte Damen und Herren,
 
-I understand that helloCash, run by mRaP GmbH in Wieselburg, offers POS and invoicing for small Austrian businesses.
+soweit ich weiß, bietet helloCash von der mRaP GmbH in Wieselburg Kassen- und Rechnungslösungen für kleine österreichische Unternehmen an.
 
-There may be scope to automate the month-end data handover to tax advisors and invoice follow-ups for helloCash users.
+Für helloCash-Nutzer ließen sich die monatliche Datenübergabe an den Steuerberater und die Nachverfolgung von Rechnungen automatisieren.
 
-My name is Jacobs Roland, and I am an AI automation specialist. I design OpenClaw-based AI agents that work with existing accounting, ERP and billing systems to support invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Mein Name ist Jacobs Roland, ich bin AI Automation Specialist. Ich entwickle KI-Agenten auf Basis von OpenClaw, die parallel zu bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen arbeiten und Aufgaben wie Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen und Finanzberichte übernehmen.
 
-If it would be helpful, I would welcome a brief 20-minute call at a time that suits you to discuss whether this could be useful for helloCash.
+Gern würde ich mich zu einem für Sie passenden Zeitpunkt 20 Minuten mit Ihnen austauschen, um zu besprechen, ob dies für helloCash interessant sein könnte.
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
-
-Jacobs Roland
-AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com"
-info@fiskaltrust.at,fiskaltrust consulting gmbh,Austria,Low,Takings reconciliation from fiskaltrust receipts,"Dear fiskaltrust team,
-
-I noted that fiskaltrust in Salzburg provides fiscalisation middleware for POS systems under RKSV and KassenSichV.
-
-There may be scope to automate takings reconciliation and accountant reports from fiscalised receipts.
-
-I am Jacobs Roland, an AI automation specialist. I build OpenClaw-based AI agents that operate alongside existing accounting, ERP and billing systems, taking care of invoice tracking, payment follow-ups, reconciliation and financial reporting.
-
-Might you be open to a short call of around 20 minutes in the coming weeks to assess whether this could support fiskaltrust?
-
-If this is not relevant to you, please let me know and I will not contact you again.
-
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com"
-office@fiskaly.com,fiskaly GmbH,Austria,Low,Accountant-ready reports from fiskaly POS data,"Dear fiskaly team,
+E-Mail: savelroly@gmail.com"
+info@fiskaltrust.at,fiskaltrust consulting gmbh,Austria,Low,Kassenabgleich auf Basis von fiskaltrust-Belegen,"Sehr geehrte Damen und Herren,
 
-I understand that fiskaly provides cloud fiscalisation APIs for POS systems in Austria, Germany and other EU countries.
+wie ich gesehen habe, bietet fiskaltrust in Salzburg Fiskalisierungs-Middleware für Kassensysteme gemäß RKSV und KassenSichV an.
 
-There may be scope to automate daily takings reconciliation and accountant-ready reports from fiscalised POS data.
+Auf Basis fiskalisierter Belege ließen sich der Abgleich der Tageseinnahmen und Berichte für Steuerberater automatisieren.
 
-My name is Jacobs Roland, and I am an AI automation specialist. I design OpenClaw-based AI agents that work with existing accounting, ERP and billing systems to support invoice tracking, payment follow-ups, reconciliation and financial reporting.
+Ich bin Jacobs Roland, AI Automation Specialist, und konzipiere KI-Agenten auf Basis von OpenClaw. Sie arbeiten mit bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen zusammen und unterstützen bei Rechnungsverfolgung, Zahlungserinnerungen, Kontenabstimmung und Finanzberichten.
 
-Would you be open to a brief 20-minute call in the coming weeks to explore whether this could be useful for fiskaly?
+Hätten Sie in den kommenden Wochen Zeit für ein kurzes Gespräch von etwa 20 Minuten, um gemeinsam zu prüfen, ob dies für fiskaltrust von Nutzen sein könnte?
 
-If this is not relevant to you, please let me know and I will not contact you again.
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
 
-Kind regards,
+Mit freundlichen Grüßen
 
 Jacobs Roland
 AI Automation Specialist | OpenClaw AI Agent Development
-Email: savelroly@gmail.com"
+E-Mail: savelroly@gmail.com"
+office@fiskaly.com,fiskaly GmbH,Austria,Low,Steuerberatertaugliche Berichte aus fiskaly-Kassendaten,"Sehr geehrte Damen und Herren,
+
+soweit ich weiß, bietet fiskaly Cloud-Fiskalisierungs-APIs für Kassensysteme in Österreich, Deutschland und weiteren EU-Ländern an.
+
+Aus fiskalisierten Kassendaten ließen sich der tägliche Abgleich der Einnahmen und steuerberatertaugliche Berichte automatisieren.
+
+Kurz zu meiner Person: Ich bin Jacobs Roland, AI Automation Specialist, und baue KI-Agenten auf Basis von OpenClaw, die neben bestehenden Buchhaltungs-, ERP- und Fakturierungssystemen laufen und Rechnungsverfolgung, Zahlungserinnerungen, Abstimmungen sowie Finanzberichte übernehmen.
+
+Wären Sie in den kommenden Wochen offen für ein kurzes, 20-minütiges Telefonat, um auszuloten, ob dies für fiskaly hilfreich sein könnte?
+
+Falls dies für Sie nicht relevant ist, geben Sie mir bitte kurz Bescheid – ich melde mich dann nicht erneut.
+
+Mit freundlichen Grüßen
+
+Jacobs Roland
+AI Automation Specialist | OpenClaw AI Agent Development
+E-Mail: savelroly@gmail.com"
 info@westerncomputer.com,Western Computer,United States,Medium,Receivables agents for Western Computer Business Central clients,"Dear Western Computer team,
 
 Western Computer published the Iron Container story about moving from NetSuite to Business Central.
